@@ -1,5 +1,6 @@
 '''mermaid
-pie title How I Spend My Time During the Day
+pie 
+         title How I Spend My Time During the Day
          "Working my full-time job" : 30
          "Homeschooling my son" : 40
          "Cleaning" : 15
