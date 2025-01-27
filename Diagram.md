@@ -1,7 +1,9 @@
-'''mermaid
 flowchart TD
-    Start --> Stop
-'''
+%% Nodes
+A("Pick a Nail Color)
+B(Choose Gel or Regular Polish")
+C("Apply)
+D("Dry)
 
  ## Brief Description of Pie Chart  
 ### This pie chart shows the main daily tasks that I have to complete _each_ day.  
