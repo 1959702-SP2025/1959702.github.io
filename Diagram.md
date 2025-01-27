@@ -1,5 +1,7 @@
+'''mermaid
 flowchart TD
     Start --> Stop
+'''
 
  ## Brief Description of Pie Chart  
 ### This pie chart shows the main daily tasks that I have to complete _each_ day.  
