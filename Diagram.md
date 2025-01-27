@@ -1,5 +1,4 @@
 flowchart TD
-%% Nodes
 A("Pick a Nail Color)
 B(Choose Gel or Regular Polish")
 C("Apply)
