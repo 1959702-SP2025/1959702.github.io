@@ -1,5 +1,7 @@
-flowchart TD
-Pick a Nail Color --> Choose Gel or Regular Polish --> Apply --> Dry
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
 
  ## Brief Description of Pie Chart  
 ### This pie chart shows the main daily tasks that I have to complete _each_ day.  
