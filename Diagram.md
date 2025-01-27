@@ -1,11 +1,6 @@
-```mermaid
-graph TD;
-    Pick a Nail Color-->Paint;
-    A-->Airbrush;
-    B-->Dry;
-    C-->Dry;
-```
-    
+flowchart TD
+    Start --> Stop
+
  ## Brief Description of Pie Chart  
 ### This pie chart shows the main daily tasks that I have to complete _each_ day.  
 Being I work from home and also a mother who homeschools her kid, I have to be mindful of how I spend my time. *Working my full-time job* takes majority of my time beinf that I have a set schedule, but not as much as *homeschooling my kid.*  
