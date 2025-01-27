@@ -1,8 +1,10 @@
+'''mermaid
 pie title How I Spend My Time During the Day
          "Working my full-time job" : 30
          "Homeschooling my son" : 40
          "Cleaning" : 15
          "Personal time" : 15
+'''
 
  ## Brief Description of Pie Chart  
 ### This pie chart shows the main daily tasks that I have to complete _each_ day.  
