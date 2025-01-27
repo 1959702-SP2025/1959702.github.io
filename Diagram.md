@@ -1,8 +1,5 @@
 flowchart TD
-A("Pick a Nail Color)
-B(Choose Gel or Regular Polish")
-C("Apply)
-D("Dry)
+Pick a Nail Color --> Choose Gel or Regular Polish --> Apply --> Dry
 
  ## Brief Description of Pie Chart  
 ### This pie chart shows the main daily tasks that I have to complete _each_ day.  
