@@ -1,6 +1,6 @@
 ```mermaid
 graph TD;
-    A-->B;
+    A [Pick a Nail Color]-->B;
     A-->C;
     B-->D;
     C-->D;
