@@ -1,12 +1,10 @@
-'''mermaid
-pieChart = Mermaid
-    .PieChart(titile: "How I Spend My Time During the Day)
-    .AddDataSet("Working my full-time jon", 30.0)
-    .AddDataSet("Homeschooling my son", 40.0)
-    .AddDataSet("Cleaning", 15.0)
-    .AddDataSet("Personal time", 15.0)
-    .Build();
-    '''
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
     
  ## Brief Description of Pie Chart  
 ### This pie chart shows the main daily tasks that I have to complete _each_ day.  
