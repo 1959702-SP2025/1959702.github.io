@@ -1,5 +1,5 @@
 '''mermaid
-var pieChart = Mermaid
+pieChart = Mermaid
     .PieChart(titile: "How I Spend My Time During the Day)
     .AddDataSet("Working my full-time jon", 30.0)
     .AddDataSet("Homeschooling my son", 40.0)
