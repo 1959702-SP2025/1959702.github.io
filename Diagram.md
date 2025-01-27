@@ -1,9 +1,9 @@
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Pick a Nail Color-->Paint;
+    A-->Airbrush;
+    B-->Dry;
+    C-->Dry;
 ```
     
  ## Brief Description of Pie Chart  
